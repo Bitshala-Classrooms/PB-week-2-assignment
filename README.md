@@ -28,7 +28,7 @@ You need to complete the Python scripts and notebook to pass.
 
 
 ### Testing Steps
-- Run all the cells in `Chapter3.ipynb` and `Chapter4.ipynb`. If all the cells run without errors, you have successfully completed the challenge and are ready to submit your solution.
+- Run all the cells in `Chapter3.ipynb`. If all the cells run without errors, you have successfully completed the challenge and are ready to submit your solution.
 
 ### Common Issues
 - If you are facing issues with solving the assignment locally, you can use [Google Colab](https://colab.research.google.com) to run in browser.
